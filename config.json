@@ -1,0 +1,7 @@
+{
+    "url":"https://www.butsa.ru/",
+    "BROWSER": "chrome",
+    "BROWSER_MODE": "display",
+    "base_timeout": 30,
+    "driver_path": "driver/chromedriver"
+}
